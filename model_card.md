@@ -14,8 +14,7 @@ Augmented Data Size: 2728 images
 Image Shape: [128, 128, 3]
 
 # **Evaluation Results:** 
-Model Accuracy
-Testing Accuracy: 53.7%
+Model Final Testing Accuracy: 53.7%
 
 # **Ethical Considerations and Limitations**
 This model is not sufficent for professional use, or for wildlife monitoring. The only animals trained on by this model are almost exclusively domestic cats and dogs.
