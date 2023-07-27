@@ -13,14 +13,9 @@ Data Augmentation: Tensorflow RandomFlip, RandomRotation, RandomZoom
 Augmented Data Size: 2728 images
 Image Shape: [128, 128, 3]
 
-# **Performance Metrics:**
-Evaluation Metrics: TBD
-Training Accuracy: TBD
-Validation Accuracy: TBD 
-Testing Accuracy: TBD
-
 # **Evaluation Results:** 
-TBD (testing accuracy goes here)
+Model Accuracy
+Testing Accuracy: 53.7%
 
 # **Ethical Considerations and Limitations**
 This model is not sufficent for professional use, or for wildlife monitoring. The only animals trained on by this model are almost exclusively domestic cats and dogs.
