@@ -5,7 +5,7 @@ Potential applications of this model range everywhere from fun mobile apps to us
 states of animals to providing appropriate care and support.
 
 # **Intended use:**
-The Animal Emotion Classifier is not intended for professional use. It is intended to be used as a fun tool for humans to better understand the emotions of animals.
+Our model is intended to be used as a fun tool for humans to better understand the emotions of animals, specifically common household pets.
 
 # **Training Data:**
 Dataset Source: Pet's Facial Expression Image Dataset (https://www.kaggle.com/datasets/anshtanwar/pets-facial-expression-dataset)
